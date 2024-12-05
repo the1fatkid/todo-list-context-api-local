@@ -1,4 +1,4 @@
-# Todo List (Context API) 📝
+# Todo List (with Context API & Local Storage) 📝💾
 
 ## Overview
 A simple and intuitive Todo List built with React and Vite, designed to keep your tasks organized and manageable. This app leverages Context API for state management and Local Storage for persistent data, ensuring your todos are saved even after refreshing the page.
